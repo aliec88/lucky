@@ -1,2 +1,2 @@
 # luckyOS
-this is a operator system
+this is a operation system
